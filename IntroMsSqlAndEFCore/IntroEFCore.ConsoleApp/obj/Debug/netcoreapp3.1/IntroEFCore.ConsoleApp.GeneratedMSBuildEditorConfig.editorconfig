@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IntroEFCore.ConsoleApp
+build_property.ProjectDir = /Volumes/MySSD/01.Codes/01.VS/01.LessonsCodes/MsSQL_EntityFramework/IntroMsSqlAndEFCore/IntroEFCore.ConsoleApp/
