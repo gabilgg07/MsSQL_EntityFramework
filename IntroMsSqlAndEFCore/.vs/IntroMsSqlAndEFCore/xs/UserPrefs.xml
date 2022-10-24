@@ -1,15 +1,8 @@
 ﻿<Properties StartupConfiguration="{CAFDE08D-2115-4EB6-BC77-B867AF0558F5}|Default">
-  <MonoDevelop.Ide.ItemProperties.IntroEFCore.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="IntroEFCore.ConsoleApp/IntroEFCore.ConsoleApp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntroEFCore.ConsoleApp/Program.cs">
     <Files>
-      <File FileName="IntroEFCore.ConsoleApp/Program.cs" Line="16" Column="1" />
-      <File FileName="IntroEFCore.ConsoleApp/IntroEFCore.ConsoleApp.csproj" Line="1" Column="1" />
+      <File FileName="IntroEFCore.ConsoleApp/Program.cs" Line="35" Column="45" />
+      <File FileName="IntroEFCore.ConsoleApp/Models/KontaktHomeContext.cs" Line="11" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,6 +10,7 @@
           <Node name="IntroMsSqlAndEFCore" expanded="True">
             <Node name="IntroEFCore.ConsoleApp" expanded="True">
               <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -26,4 +20,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.IntroEFCore.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
